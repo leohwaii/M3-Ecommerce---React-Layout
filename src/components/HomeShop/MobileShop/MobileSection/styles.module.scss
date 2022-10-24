@@ -1,0 +1,44 @@
+
+.content_buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.filters_title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.2rem;
+    justify-content: center;
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+}
+
+.button {
+    width: 171px;
+    height: 49px;
+    left: 16px;
+    top: 144px;
+    border: 1px solid #666666;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    &:hover {
+        cursor: pointer;
+    }
+}
+.title_button {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #666666;
+    text-align: center;
+    align-items: center;
+    font-family: Open Sans, sans-serif;
+    justify-content: center;
+}
+
+

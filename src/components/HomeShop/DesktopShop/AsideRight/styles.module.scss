@@ -1,0 +1,23 @@
+.content_orderby {
+    display: flex;
+    justify-content: flex-start;
+
+    
+
+    select {
+        width: auto;
+        height: 42px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.1rem;
+        color: var(--black);
+        &:hover {
+            cursor: pointer;
+        }
+
+        option {
+            margin-bottom: 2rem;
+        }
+    }
+}
+

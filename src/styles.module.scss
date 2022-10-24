@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --white: #FFFFFF;
+    --blue-100: #00C0EE;
+    --gray-700: #666666;
+    --gray-800: #333333;
+    --gray-100: rgba(0, 0, 0, 0.5);
+    --black: #000;
+  }
+
+  
+  button {
+    cursor: pointer;
+  }
+  
+  a {
+    color: '#';
+    text-decoration: none;
+  }
+  
